@@ -1,0 +1,6 @@
+@primeiro_site_aspnet_com_react_mvc.Server_HostAddress = http://localhost:5016
+
+GET {{primeiro_site_aspnet_com_react_mvc.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
